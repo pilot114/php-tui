@@ -5,6 +5,12 @@ CHANGELOG
 
 Features:
 
+- Allow widgets to render themselves if implementing `WidgetRenderer`
+
+## 0.2.0
+
+Features:
+
 - Add paragraph word wrap support #219 @KennedyTedesco
 
 Improvements:
